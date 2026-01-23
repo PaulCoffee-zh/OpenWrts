@@ -4,8 +4,8 @@ git clone --depth 1 https://github.com/destan19/OpenAppFilter package/otherapp/O
 git clone --depth 1 https://github.com/zzsj0928/luci-app-pushbot package/otherapp/luci-app-pushbot
 
 # Theme
-# luci-theme-neobird
-git clone --depth 1 https://github.com/PaulCoffee-zh/luci-theme-neobird.git package/otherapp/luci-theme-neobird
+# luci-theme-argon
+git clone --depth 1 https://github.com/jerrykuku/luci-theme-argon.git package/otherapp/luci-theme-argon
 
 # Mentohust
 git clone --depth 1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/otherapp/mentohust
