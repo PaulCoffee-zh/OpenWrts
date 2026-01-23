@@ -1,6 +1,9 @@
 name: Raspberry Pi4
 
 on:
+  push:
+    branches:
+      - main
   repository_dispatch:
   workflow_dispatch:
 
